@@ -76,9 +76,3 @@ Note: Once set up, any changes pushed to the main branch will be automatically d
 
 By following these steps, your site will be live and accessible via the provided URL.
 
-## Acknowledgments
-
-This project was developed as part of a thesis assignment. Special thanks to our professors and mentors for their guidance and support.
-# Digital-Governance---Greek-Passport
-# Digital-Governance---Greek-Passport
-# Greek_Passport
